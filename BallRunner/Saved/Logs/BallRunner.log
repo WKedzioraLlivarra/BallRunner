@@ -2096,6 +2096,7 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2024.04.16-07.55.59:963][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.04.16-07.55.59:968][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
 [2024.04.16-07.56.00:008][274]LogPlayLevel: Display: Destroying online subsystem :Context_28
+<<<<<<< Updated upstream
 [2024.04.16-07.59.15:262][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
 [2024.04.16-07.59.17:345][543]LogSlate: Window 'Save Content' being destroyed
 [2024.04.16-07.59.17:361][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_level/lvl_2" FILE="../../../../../../Users/student/Documents/GitHub/BallRunner/BallRunner/Content/Map_level/lvl_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
@@ -2589,3 +2590,5 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2024.04.16-07.59.19:669][544]LogD3D11RHI: CleanupD3DDevice
 [2024.04.16-07.59.19:671][544]LogExit: Exiting.
 [2024.04.16-07.59.19:680][544]Log file closed, 04/16/24 09:59:19
+=======
+>>>>>>> Stashed changes
